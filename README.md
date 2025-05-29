@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArnesKapic
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning Computer Science at WGU
-- 💞️ I’m looking to collaborate in order to learn more abou my field of study.
+- 💞️ I’m looking to collaborate in order to learn more about my field of study.
 - 📫 How to reach me is through GitHub.
 
 <!---
