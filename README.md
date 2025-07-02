@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ArnesKapic
-- 👀 I’m interested in programming. 
-- 🌱 I’m currently learning Computer Science at WGU
-- 💞️ I’m looking to collaborate in order to learn more about my field of study.
-- 📫 How to reach me is through GitHub.
+# 👋 Hi, I’m Arnes Kapic
+
+🎓 I’m currently pursuing a Bachelor’s degree in Computer Science at WGU.  
+💻 I enjoy programming and building real-world applications that solve meaningful problems.  
+🛠️ My current toolkit includes C#, Python, Java, SQL, JavaScript, and HTML/CSS.  
+🌱 Always learning — currently expanding my skills in machine learning and backend development.  
+🤝 I’m open to collaboration to gain experience and grow as a developer.  
+📫 Reach me here on GitHub or LinkedIn — I'm always happy to connect and learn from others!
+
 
 <!---
 ArnesKapic/ArnesKapic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
